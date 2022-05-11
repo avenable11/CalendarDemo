@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalendarDemo</string>
+    <string name="calID">ivytechopenlabcalendar@gmail.com</string>
+    <string name="calAPIKey">AIzaSyDLnPWohFo0e2jsHw4NcWlnjlMfW6CmzNc</string>
+</resources>
